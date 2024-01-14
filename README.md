@@ -1,7 +1,7 @@
 # Walk-In-Clinic-Android-App
 **My first ever android app!** Written in Java with android studio. This is a walk in clinic organizer/scheduling software.
 
-This app was co-developed in my software engineering class with 4 other students. My main responsibillity was implementing the back end functionallity and database component.
+
 
 ## Running the App
 The only way to run this app is to download and run the **RUN_ME.apk**
